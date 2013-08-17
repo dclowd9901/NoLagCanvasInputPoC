@@ -1,0 +1,1 @@
+var redBox = new Box();
